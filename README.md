@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alexaoh's github stats](https://github-readme-stats.vercel.app/api?username=alexaoh&show_icons=true&hide=starsa&count_private=true)
+![alexaoh's github stats](https://github-readme-stats.vercel.app/api?username=alexaoh&hide=starsa&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaoh&hide=makefile&layout=compact)
 
